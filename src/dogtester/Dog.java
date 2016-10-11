@@ -1,8 +1,6 @@
 package dogtester;
 
-/**
- * Created by Ethan Watt
- * On October 11, 2016
+/*
  * Class of dogTester that creates the dog object
  */
 public class Dog {

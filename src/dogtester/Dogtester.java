@@ -9,12 +9,12 @@ package dogtester;
  * This is the class for the dog tester that contains the main method
  */
 public class Dogtester {
+    
     /**
      * pre: String array
      * post: void
      * Main method to print dog characteristics
      */
-    
     public static void main(String[] args) {
         Dog dog1 = new Dog("Rover", "Spaniel", 8, 4);
         Dog dog2 = new Dog("Spot", "Border Collie");
