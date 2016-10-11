@@ -5,7 +5,7 @@
  */
 package dogtester;
 
-/**
+/*
  * This is the class for the dog tester that contains the main method
  */
 public class Dogtester {
