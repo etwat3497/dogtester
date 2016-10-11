@@ -1,17 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/**
+ * Created by Ethan Watt
+ * On October 11, 2016
+ * Use classes to simplify a program that describes a dog
  */
 package dogtester;
 
 /**
- *
- * @author Alex
+ * This is the class for the dog tester that contains the main method
  */
 public class Dogtester {
     /**
-     * @param args the command line arguments
+     * pre: String array
+     * post: void
+     * Main method to print dog characteristics
      */
     
     public static void main(String[] args) {
